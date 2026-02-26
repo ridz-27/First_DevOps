@@ -1,1 +1,2 @@
+Today is Thursday
 Hello! This is First DevOps Practical
